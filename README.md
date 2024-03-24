@@ -2,7 +2,7 @@
 
 Explit and secure an OS Command Injection vulnerability. 
 
-## Installation
+## Setup
 ```npm insall```
 ``` npm start```
 
